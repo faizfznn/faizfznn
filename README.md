@@ -1,5 +1,4 @@
-**# About Me**
-# A first-level heading
+# About Me
 
 - 👋 Hi, I’m @faizfznn
 - 👀 I’m interested in Frontend Dev <maybe?>
