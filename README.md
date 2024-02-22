@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @faizfznn
+**About Me
+**- 👋 Hi, I’m @faizfznn
 - 👀 I’m interested in Frontend Dev <maybe?>
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me faiz150605@gmail.com
