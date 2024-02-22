@@ -1,4 +1,4 @@
-**About Me**
+#**About Me**
 - 👋 Hi, I’m @faizfznn
 - 👀 I’m interested in Frontend Dev <maybe?>
 - 🌱 I’m currently learning HTML and CSS
