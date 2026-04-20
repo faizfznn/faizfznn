@@ -50,7 +50,7 @@ Instead of just writing code, I focus on crafting solutions. Currently diving de
 Let's discuss code, design, or the latest tech trends!
 
 * **Portfolio:** [faizfauzanspace.space](https://faizfauzan.space/)
-* **LinkedIn:** [Muhammad Faiz Fauzan](https://www.linkedin.com/in/muhammadfaizfauzan/)
+* **LinkedIn:** [Muhammad Faiz Fauzan](https://www.linkedin.com/in/mfaizfauzan/)
 * **Email:** [faiz150605@gmail.com](mailto:faiz150605@gmail.com)
 
 <br />
