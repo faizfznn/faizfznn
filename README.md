@@ -49,17 +49,5 @@ Let's discuss code, design, or the latest tech trends!
 ### 📊 Code Frequency
 
 <div align="left">
-<table align="center">
-  <tr>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/card?username=faizfznn&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Forest%20Log" alt="GitHub forest log" />
-    </td>
-    <td width="2%"></td>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/langs?username=faizfznn&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&custom_title=Language%20Garden" alt="Language garden" />
-      <br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=faizfznn&theme=dark&hide_border=true&background=0D1117&ring=8DBA8E&fire=D6A85E&currStreakLabel=8DBA8E&sideNums=D6A85E&currStreakNum=D6A85E&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizfznn&show_icons=true&theme=vibrant&hide_border=true" alt="Faiz's GitHub Stats" />
 </div>
