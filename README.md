@@ -4,7 +4,7 @@
 
 **Digital Craftsman | Frontend Wizard | UI/UX Sculptor**
 
-*Computer Science Student @ Faculty of Computer Science, Brawijaya University*
+_Computer Science Student @ Faculty of Computer Science, Brawijaya University_
 
 <br />
 
@@ -39,9 +39,9 @@
 
 Instead of just writing code, I focus on crafting solutions. Currently diving deep into:
 
-* 🎨 **Creative Frontend:** Experimenting with various Libraries, Frameworks, and Languages to create interactive **Single Page Application (SPA)** architectures.
-* ✨ **UI/UX Design:** Designing intuitive interfaces and seamless user experiences with a focus on accessibility and aesthetics.
-* 🤖 **Future Tech:** Expanding my horizons by learning **Artificial Intelligence (AI)** and its integration into modern web apps.
+- 🎨 **Creative Frontend:** Experimenting with various Libraries, Frameworks, and Languages to create interactive **Single Page Application (SPA)** architectures.
+- ✨ **UI/UX Design:** Designing intuitive interfaces and seamless user experiences with a focus on accessibility and aesthetics.
+- 🤖 **Future Tech:** Expanding my horizons by learning **Artificial Intelligence (AI)** and its integration into modern web apps.
 
 <br />
 
@@ -49,9 +49,9 @@ Instead of just writing code, I focus on crafting solutions. Currently diving de
 
 Let's discuss code, design, or the latest tech trends!
 
-* **Portfolio:** [faizfauzanspace.space](https://faizfauzan.space/)
-* **LinkedIn:** [Muhammad Faiz Fauzan](https://www.linkedin.com/in/mfaizfauzan/)
-* **Email:** [faiz150605@gmail.com](mailto:faiz150605@gmail.com)
+- **Portfolio:** [faizfauzan.space](https://faizfauzan.space/)
+- **LinkedIn:** [Muhammad Faiz Fauzan](https://www.linkedin.com/in/mfaizfauzan/)
+- **Email:** [faiz150605@gmail.com](mailto:faiz150605@gmail.com)
 
 <br />
 
